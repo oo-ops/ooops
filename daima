@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="refresh" content="5; url=https://www.wenjuan.com/s/2Yvyuiz/">
+  <title>Random Redirect</title>
+  <script>
+    document.addEventListener('DOMContentLoaded', function() {
+      var urls = [
+"https://www.wenjuan.com/s/67Fz63w/",
+"https://www.wenjuan.com/s/N7vaEvn/",
+"https://www.wenjuan.com/s/mQJvEvK/",
+"https://www.wenjuan.com/s/A3Yzmy9/",
+"https://www.wenjuan.com/s/yauaY3W/",
+"https://www.wenjuan.com/s/QbIvQbj/",
+"https://www.wenjuan.com/s/eim2IrA/"
+      ];
+      var randomUrl = urls[Math.floor(Math.random() * urls.length)];
+      window.location.href = randomUrl;
+    });
+  </script>
+</head>
+<body>
+  <p>If you are not redirected, <a href="https://www.wenjuan.com/s/2Yvyuiz/">click here</a>.</p>
+</body>
+</html>
